@@ -1,5 +1,5 @@
 # AI Recognizes Handwritten Digits
-
+## Analysis performed in March 2020
 In this notebook I used a polynomial support vector machine to classify handwritten digits. The famous "MNIST" dataset was used. 
 
 ![Three](./images/3.png)
